@@ -52,7 +52,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: #454360;
   font-family: "Rubik", sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   margin: 10px 0;
 }
 
@@ -871,7 +871,7 @@ section.home .social-icons li a {
   color: #FFF;
 }
 section.home.light {
-  background: #F9F9FF;
+  background: #c8c8c830;
 }
 section.home.light .intro h1 {
   color: #353353;
