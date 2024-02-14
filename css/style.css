@@ -2625,7 +2625,7 @@ body {
 }
 @media only screen and (max-width: 768px) {
   section.home {
-    padding: 300px 0;
+    padding: 10px 0;
   }
 
   .portfolio-filter {
